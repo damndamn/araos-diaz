@@ -87,7 +87,7 @@ video{
 }
 
 .dupla a:hover{
-	color:rgba(255,192,5,1);
+	color:rgba(0,0,0,1);
 	text-decoration:underline;
 }
 
